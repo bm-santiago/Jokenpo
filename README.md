@@ -102,5 +102,6 @@ Desenvolvido por **Breno Maia**
 🔗 [GitHub](https://github.com/bm-santiago)
 
 ---
+<img src="https://github.com/bm-santiago/Jokenpo/blob/0ec70947c08bcbbcd404c7c6a36703538e74e0d4/17_57_06.png"/>
 
 ⭐ Se você gostou do projeto, considere deixar uma estrela no repositório!
