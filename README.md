@@ -65,7 +65,7 @@ Jokenpo-Dev/
 1. Baixe ou clone este repositório:
 
 ```
-git clone https://github.com/SEU-USUARIO/Jokenpo-Dev.git
+git clone https://github.com/bm-santiago/Jokenpo.git
 ```
 
 2. Abra a pasta do projeto
