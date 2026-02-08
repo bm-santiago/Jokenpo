@@ -1,7 +1,9 @@
 # 🎮 Jokenpô-Dev
 
-Um jogo de **Pedra, Papel e Tesoura** desenvolvido com **HTML, CSS e JavaScript puro (Vanilla JS)**.
-O objetivo do projeto foi praticar manipulação de DOM, lógica de programação e interação com o usuário no navegador.
+Um jogo interativo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido com HTML, CSS e JavaScript puro.
+
+O projeto simula uma partida contra a máquina, exibindo a escolha do jogador, a escolha da CPU, resultado da rodada e placar em tempo real.
+Também conta com feedback visual e animações para melhorar a experiência do usuário.
 
 ---
 
@@ -27,12 +29,13 @@ O sistema calcula automaticamente o vencedor da rodada e atualiza o placar em te
 
 ## 🕹️ Funcionalidades
 
-* Escolha entre 👊 Pedra, ✋ Papel ou ✌ Tesoura
-* Máquina realiza jogada automática
-* Exibição do resultado da rodada
-* Contador de vitórias do jogador
-* Contador de vitórias da máquina
-* Interface responsiva (funciona no celular)
+* Escolha entre Pedra, Papel ou Tesoura
+* Máquina faz jogada aleatória
+* Exibição da escolha do jogador e da CPU
+* Resultado da rodada (vitória, derrota ou empate)
+* Placar atualizado em tempo real
+* Destaque visual da escolha da máquina
+* Interface responsiva (mobile-first)
 
 ---
 
