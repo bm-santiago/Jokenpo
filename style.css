@@ -119,7 +119,7 @@ span {
     color: #ff5e5e;
 }
 
-/* ================= ANIMAÇÕES DE RESULTADO ================= */
+
 
 /* quando você ganha */
 .win {
@@ -168,7 +168,7 @@ span {
 
 
 
-/* ================= RESPONSIVO (CELULAR) ================= */
+
 @media (max-width: 420px) {
 
     h1 {

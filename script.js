@@ -31,9 +31,7 @@ const playHuman = (humanChoice) => {
 
     playTheGame(humanChoice, playMachine())
 
-
 }
-
 
 const playMachine = () => {
     const choices = [GAME_OPTIONS.ROCK, GAME_OPTIONS.PAPER, GAME_OPTIONS.SCISSORS]
@@ -41,7 +39,6 @@ const playMachine = () => {
 
     return choices[randomNumber]
 }
-
 
 const playTheGame = (human, machine) => {
     console.log('Humano:' + human + " " + 'Machine:' + machine)
